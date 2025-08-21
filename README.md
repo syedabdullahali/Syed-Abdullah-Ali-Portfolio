@@ -10,7 +10,7 @@ Header → My name and a short tagline
 
 Navigation → Links to About, Projects, and Contact sections
 
-About Section → A short introduction about me
+About Section → A short introduction about me and EXP
 
 Projects Section → Two sample projects with a title, description, and a link
 
