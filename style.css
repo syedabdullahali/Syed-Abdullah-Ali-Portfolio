@@ -8,7 +8,6 @@ html {
     padding: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
-    word-break: break-all;
 }
 
 :root {
@@ -526,6 +525,10 @@ section {
 
 @media (max-width: 1280px) {
     /* Profile */
+    * {
+    word-break: break-all;
+}
+
 
     .portfolio_image {
         display: block;
