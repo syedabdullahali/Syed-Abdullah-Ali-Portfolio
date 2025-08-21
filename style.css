@@ -8,6 +8,7 @@ html {
     padding: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
+    word-break: break-all;
 }
 
 :root {
@@ -403,8 +404,6 @@ h5 {
 .contact_email_phone {
     color: white;
     width: 50%;
-    word-break: break-all;
-
 }
 
 .contact_email_phone h3 {
@@ -634,11 +633,18 @@ section {
         font-family: sans-serif;
     }
 
+
     /* Heading */
     .header {
         padding: 2rem 1rem;
     }
+    /* Profile */
+    .portfolio_image {
 
+    width: 300px;
+    height: 300px;
+}
+    
     /*  */
     .footer {
         padding: 2rem 3rem 0rem 3rem;
